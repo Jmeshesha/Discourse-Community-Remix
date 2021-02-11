@@ -18,6 +18,14 @@ There are many words that are specific to gaming that players use to communicate
 
 ## How does studying DCs help in Game Dev
 
-As stated in the "What is a Discourse Community Section", 
+As stated in the "What is a Discourse Community Section", software developers solve problems problems that inhibit the goals of discourse communities. Since game developers are software developers, this also applys to game development. 
+
+
+The previous section talked about how there are two goals in the gaming discourse community and how important they are in a games community is dependant on what kind of game they are. Studying this idea is increadibly important as it can show you what features a game community wants. For instance, the community of a competative game like Counter Strike will most likely want more things to be more balanced so that the game is mostly skill based. The community of a more casual game, on the otherhand, like amoung us may something like more maps which may be harder to balence but are more fun.
+
+
+However, things aren't exactly black and white and a community who focuses on one goal may want to improve the other. Lets look back at the Counter Strike example. In that game, there's a bug called bunnyhopping that allows you to increase your movement speed by jumping and turning the camera while moving a certain way. This bug allowed things to happen in the game that made things unfair so naturally a game developer would be inclined to remove it completely. However, the bug also changed the way people played the game in a good way and people created minigames out of it. Instead of completely removing it, the developer decided to just modify it slighly so that both parties are happy. Someone who didn't understand the discourse community fully might have removed the bug all together.
+
+
 
 
